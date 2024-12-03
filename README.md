@@ -1,4 +1,4 @@
-# Free Birds - Project #0x11 - C printf
+# Project #0x11 - C printf
 
 This project is part of the **ALX Software engineering curriculum** undertaken by our team. Our goal was to replicate the functionality of the `printf()` function from the C standard library using our own version of the same.
 
