@@ -20,9 +20,10 @@ To complete this project, we used the following technologies and tools:
 
 ## Team Members
 
-The following individuals were members of the Free Birds team who completed this project:
+The following individuals were members of the team who completed this project:
 
-* [Member 1](https://github.com/Josh-techie)
+* [Josh-Techie](https://github.com/Josh-techie)
+* [Soufiane-Oumalek](https://github.com/soufiane-oumalek)
 
 ## How to Use
 
